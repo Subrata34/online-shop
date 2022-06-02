@@ -1,7 +1,13 @@
+@import '../Variables/Variables.scss';
 
-$blackColor:rgb(46, 43, 43);
 .navbar{
     width:100%;
     height:80%;
     background-color:$blackColor;
+}
+
+.navbar a{
+    background-color: $WhiteColor;
+    margin:12px;
+
 }

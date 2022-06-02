@@ -1,6 +1,11 @@
 .navbar {
   width: 100%;
   height: 80%;
-  background-color: #2e2b2b;
+  background-color: #4d4848;
+}
+
+.navbar a {
+  background-color: #dbd7d7;
+  margin: 12px;
 }
 /*# sourceMappingURL=Navbar.css.map */

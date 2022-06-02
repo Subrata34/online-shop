@@ -5,7 +5,9 @@
 }
 
 .navbar a {
-  background-color: #dbd7d7;
+  color: #dbd7d7;
   margin: 12px;
+  font-size: 25px;
+  text-decoration: none;
 }
 /*# sourceMappingURL=Navbar.css.map */

@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './Components/Navbar.js/Navbar';
+import Home from './Components/Home/Home';
 
 function App() {
   return (
     <div className="App">
-     <Navbar></Navbar>
+     <Home></Home>
     </div>
   );
 }

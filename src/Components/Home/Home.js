@@ -1,10 +1,10 @@
 import { Button } from "@mui/material";
 import React from "react";
+import Navbar from "../Navbar.js/Navbar";
 
 const Home = () => {
   return (<div>
-    <h1>Welcome to our Website </h1>
-    <Button className="button-style">Click Here</Button>
+    <Navbar></Navbar>
     </div>);
 };
 

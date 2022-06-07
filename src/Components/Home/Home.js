@@ -1,10 +1,9 @@
-import { Button } from "@mui/material";
+
 import React from "react";
-import Navbar from "../Navbar.js/Navbar";
 
 const Home = () => {
   return (<div>
-   
+   <h1>this is home</h1>
     </div>);
 };
 

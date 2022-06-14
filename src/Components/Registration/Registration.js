@@ -30,6 +30,7 @@ const Registration = () => {
         <Input type="submit" value="Submit" />
       
         </form>
+        <Button variant="contain">Google sign In</Button>
       </div>
     </div>
   );
